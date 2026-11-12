@@ -1,0 +1,6 @@
+{
+  "name": "DarkMusic",
+  "description": "DarkMusic streaming & audio platform - artist, album, track catalog and player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

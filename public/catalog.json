@@ -1,0 +1,532 @@
+{
+  "githubRepoPath": "EzzO4ka/darkmusic",
+  "githubBranch": "main",
+  "avatars": {
+    "mc_geich": "avatars/mc_geich.jpg",
+    "mc_makaka": "avatars/mc_makaka.jpg",
+    "mc_ezdit": "avatars/mc_ezdit.jpg"
+  },
+  "artistBanners": {
+    "mc_geich": "banners/mc_geich2.jpg",
+    "mc_makaka": "banners/mc_makaka2.jpg",
+    "mc_ezdit": "banners/mc_ezdit2.jpg"
+  },
+  "artistNames": {
+    "mc_geich": "МС ГЕИЧ",
+    "mc_makaka": "МС МАКАКА",
+    "mc_ezdit": "МС ЕЗДИТЬ"
+  },
+  "artistBios": {
+    "mc_geich": "Российский рэп исполнитель, продюсер, контентмейкер. Стал популярен благодаря \"Элиты\" Татьяны Леонидовны. Писал рофленные текста про Ахмада и себя. Продюсировал МС МАКАКУ.",
+    "mc_makaka": "МС МАКАКА — самая взрывная энергия объединения Dark Music. Король школьного и дворового русского рэпа. Стал популярен в школе благодаря его продюсерам Максиму и Алексею. Обрёл известность в 2023 году после выхода первого альбома \"ЗАГЕЕВ\".",
+    "mc_ezdit": "Питерский рэп-исполнитель. Его главная фишка - записать вокал, одновременно выдумывая текст из головы. Все треки не имеют определённого смысла - и так нормально."
+  },
+  "artistRoles": {
+    "mc_geich": "Рэп",
+    "mc_makaka": "Рэп",
+    "mc_ezdit": "Рэп"
+  },
+  "artistFacts": {
+    "mc_geich": [
+      "Брал биты с интернета, писал на микрофон наушников, склепал биты и текста в Movavi - Вот это нихуя себе",
+      "Совмещает реальность с рофлом - Получилось круто",
+      "Спустя 2 года вернулся к прежнему контентмейкингу, исполнению и продюсерству."
+    ],
+    "mc_makaka": [
+      "Записывает вокал с одного дубля, чтобы сохранить максимальную живую подачу.",
+      "Давал концерты в школе: классы, туалет, коридор за 10 рублей.",
+      "Треки записывал в подъезде, в школьном туалете и на улице за электрической будкой.",
+      "Совмещает реальность с рофлом - Вот это нихуя себе",
+      "Трек \"Маша ебанулась\" получился благодаря Маше: Она реально на уроке химии упала со стула.",
+      "Текста придумывали не только продюсеры, но и помогали одноклассники!",
+      "Самая тонкая лирика героя, которая только могла быть!"
+    ],
+    "mc_ezdit": [
+      "Его главная фишка - записать вокал, одновременно выдумывая текст из головы.",
+      "Все треки не имеют определённого смысла - и так нормально.",
+      "Даже Бетховен в ахуе - Как он мог без остановки записать вокал на 9 минут в треке \"Перезвон\".",
+      "Впервые за 2 года детально поработал в новом релизе \"Лирика Житухи\" над текстом, записью вокала и сведением с битом – а раньше сразу во время записи выдумывал с головы."
+    ]
+  },
+  "artistGradients": {
+    "mc_geich": "from-amber-600 via-orange-950 to-zinc-950",
+    "mc_makaka": "from-sky-600 via-blue-950 to-zinc-950",
+    "mc_ezdit": "from-fuchsia-600 via-purple-950 to-zinc-950"
+  },
+  "artistIcons": {
+    "mc_geich": "fa-user-astronaut",
+    "mc_makaka": "fa-crown",
+    "mc_ezdit": "fa-gauge-high"
+  },
+  "customArtists": [
+    {
+      "id": "mc_geich",
+      "name": "МС ГЕИЧ",
+      "role": "Рэп",
+      "gradient": "from-amber-600 via-orange-950 to-zinc-950",
+      "icon": "fa-user-astronaut",
+      "avatarFile": "avatars/mc_geich.jpg",
+      "bio": "Российский рэп исполнитель, продюсер, контентмейкер. Стал популярен благодаря \"Элиты\" Татьяны Леонидовны. Писал рофленные текста про Ахмада и себя. Продюсировал МС МАКАКУ.",
+      "facts": [
+        "Брал биты с интернета, писал на микрофон наушников, склепал биты и текста в Movavi - Вот это нихуя себе",
+        "Совмещает реальность с рофлом - Получилось круто",
+        "Спустя 2 года вернулся к прежнему контентмейкингу, исполнению и продюсерству."
+      ],
+      "isCustom": true,
+      "createdAt": 1793576408969,
+      "bannerFile": "banners/mc_geich2.jpg"
+    },
+    {
+      "id": "mc_makaka",
+      "name": "МС МАКАКА",
+      "role": "Рэп",
+      "gradient": "from-sky-600 via-blue-950 to-zinc-950",
+      "icon": "fa-crown",
+      "avatarFile": "avatars/mc_makaka.jpg",
+      "bio": "МС МАКАКА — самая взрывная энергия объединения Dark Music. Король школьного и дворового русского рэпа. Стал популярен в школе благодаря его продюсерам Максиму и Алексею. Обрёл известность в 2023 году после выхода первого альбома \"ЗАГЕЕВ\".",
+      "facts": [
+        "Записывает вокал с одного дубля, чтобы сохранить максимальную живую подачу.",
+        "Давал концерты в школе: классы, туалет, коридор за 10 рублей.",
+        "Треки записывал в подъезде, в школьном туалете и на улице за электрической будкой.",
+        "Совмещает реальность с рофлом - Вот это нихуя себе",
+        "Трек \"Маша ебанулась\" получился благодаря Маше: Она реально на уроке химии упала со стула.",
+        "Текста придумывали не только продюсеры, но и помогали одноклассники!",
+        "Самая тонкая лирика героя, которая только могла быть!"
+      ],
+      "isCustom": true,
+      "createdAt": 1793576412861,
+      "bannerFile": "banners/mc_makaka2.jpg"
+    },
+    {
+      "id": "mc_ezdit",
+      "name": "МС ЕЗДИТЬ",
+      "role": "Рэп",
+      "gradient": "from-fuchsia-600 via-purple-950 to-zinc-950",
+      "icon": "fa-gauge-high",
+      "avatarFile": "avatars/mc_ezdit.jpg",
+      "bio": "Питерский рэп-исполнитель. Его главная фишка - записать вокал, одновременно выдумывая текст из головы. Все треки не имеют определённого смысла - и так нормально.",
+      "facts": [
+        "Его главная фишка - записать вокал, одновременно выдумывая текст из головы.",
+        "Все треки не имеют определённого смысла - и так нормально.",
+        "Даже Бетховен в ахуе - Как он мог без остановки записать вокал на 9 минут в треке \"Перезвон\".",
+        "Впервые за 2 года детально поработал в новом релизе \"Лирика Житухи\" над текстом, записью вокала и сведением с битом – а раньше сразу во время записи выдумывал с головы."
+      ],
+      "isCustom": true,
+      "createdAt": 1793576432923,
+      "bannerFile": "banners/mc_ezdit2.jpg"
+    }
+  ],
+  "customAlbums": [
+    {
+      "isExplicit": true,
+      "year": 2023,
+      "coverFile": "covers/alb_zageev.jpg",
+      "title": "ЗАГЕЕВ",
+      "gradient": "from-emerald-600 via-teal-900 to-zinc-950",
+      "type": "АЛЬБОМ",
+      "artistId": "mc_makaka",
+      "id": "alb_1792597638805"
+    },
+    {
+      "year": 2024,
+      "gradient": "from-rose-600 via-red-900 to-zinc-950",
+      "isExplicit": true,
+      "artistId": "mc_ezdit",
+      "id": "alb_1792604400709",
+      "type": "АЛЬБОМ",
+      "title": "Мертворождённые",
+      "coverFile": "covers/alb_mertvorozdennye.jpg"
+    },
+    {
+      "id": "alb_1793566754812",
+      "title": "Лирика Житухи",
+      "artistId": "mc_ezdit",
+      "featArtistId": "mc_geich",
+      "type": "СИНГЛ",
+      "year": 2026,
+      "isExplicit": true,
+      "coverFile": "covers/alb_sosiska.jpg",
+      "gradient": "from-rose-600 via-red-900 to-zinc-950"
+    }
+  ],
+  "customTracks": [
+    {
+      "id": "trk_1793566754812",
+      "title": "Лирика Житухи",
+      "artistId": "mc_ezdit",
+      "featArtistId": "mc_geich",
+      "albumId": "alb_1793566754812",
+      "filePath": "tracks/mc_ezdit/ЛИРИКА ЖИТУХИ.MP3",
+      "coverFile": "",
+      "duration": "2:57",
+      "year": 2026,
+      "isNew": true,
+      "isExplicit": true,
+      "createdAt": 1793566754812
+    },
+    {
+      "id": "trk_1792613045145",
+      "title": "Я",
+      "albumId": "",
+      "year": 2024,
+      "isExplicit": true,
+      "duration": "1:24",
+      "isNew": false,
+      "filePath": "tracks/mc_geich/Геич - Я.mp3",
+      "coverFile": "covers/alb_ya.JPG",
+      "artistId": "mc_geich",
+      "createdAt": 1792613045145
+    },
+    {
+      "isNew": false,
+      "coverFile": "covers/alb_ahmad.JPG",
+      "id": "trk_1792612989945",
+      "createdAt": 1792612989945,
+      "filePath": "tracks/mc_geich/Геич - Ахмад.mp3",
+      "year": 2024,
+      "artistId": "mc_geich",
+      "isExplicit": true,
+      "title": "Ахмад",
+      "albumId": "",
+      "duration": "0:55"
+    },
+    {
+      "year": 2023,
+      "title": "Про продюсеров",
+      "coverFile": "covers/alb_prod.jpg",
+      "createdAt": 1792612900589,
+      "duration": "0:37",
+      "isExplicit": true,
+      "isNew": false,
+      "id": "trk_1792612900589",
+      "filePath": "tracks/mc_makaka/МС Макака - Про продюсеров.mp3",
+      "artistId": "mc_makaka",
+      "albumId": ""
+    },
+    {
+      "isNew": false,
+      "id": "trk_1792597676680",
+      "duration": "2:29",
+      "createdAt": 1792597676680,
+      "isExplicit": true,
+      "year": 2023,
+      "coverFile": "",
+      "filePath": "tracks/mc_makaka/МС Макака - Маша ебанулась.mp3",
+      "title": "Маша ебанулась",
+      "artistId": "mc_makaka",
+      "albumId": "alb_1792597638805"
+    },
+    {
+      "title": "Милена спрыгнула с окна",
+      "year": 2023,
+      "filePath": "tracks/mc_makaka/МС_Макака_Милена_спрыгнула_с_окна.mp3",
+      "artistId": "mc_makaka",
+      "id": "trk_1792605310798",
+      "isExplicit": true,
+      "createdAt": 1792605310798,
+      "albumId": "alb_1792597638805",
+      "isNew": false,
+      "coverFile": "",
+      "duration": "2:00"
+    },
+    {
+      "artistId": "mc_makaka",
+      "year": 2023,
+      "coverFile": "",
+      "title": "Моя любовь",
+      "filePath": "tracks/mc_makaka/МС Макака - Моя любовь.mp3",
+      "albumId": "alb_1792597638805",
+      "createdAt": 1792605485661,
+      "duration": "1:25",
+      "isExplicit": true,
+      "id": "trk_1792605485661",
+      "isNew": false
+    },
+    {
+      "duration": "1:50",
+      "title": "Загеев",
+      "id": "trk_1792611847469",
+      "albumId": "alb_1792597638805",
+      "artistId": "mc_makaka",
+      "year": 2023,
+      "isExplicit": true,
+      "isNew": false,
+      "coverFile": "",
+      "filePath": "tracks/mc_makaka/МС Макака - Загеев.mp3",
+      "createdAt": 1792611847469
+    },
+    {
+      "isNew": false,
+      "duration": "1:48",
+      "year": 2023,
+      "isExplicit": true,
+      "filePath": "tracks/mc_makaka/МС Макака - Не еби мне мозги.mp3",
+      "createdAt": 1792611895502,
+      "artistId": "mc_makaka",
+      "coverFile": "",
+      "title": "Не еби мне мозги",
+      "albumId": "alb_1792597638805",
+      "id": "trk_1792611895502"
+    },
+    {
+      "duration": "2:18",
+      "id": "trk_1792611936565",
+      "title": "Волшебная бутылочка",
+      "isNew": false,
+      "artistId": "mc_makaka",
+      "createdAt": 1792611936565,
+      "filePath": "tracks/mc_makaka/МС Макака - Волшебная бутылочка.mp3",
+      "year": 2023,
+      "albumId": "alb_1792597638805",
+      "isExplicit": true,
+      "coverFile": ""
+    },
+    {
+      "isNew": false,
+      "duration": "1:05",
+      "year": 2024,
+      "isExplicit": true,
+      "filePath": "tracks/mc_ezdit/МС Ездить Что делать вегодня....mp3",
+      "createdAt": 1792605138686,
+      "artistId": "mc_ezdit",
+      "coverFile": "",
+      "title": "Что делать сегодня",
+      "albumId": "alb_1792604400709",
+      "id": "trk_1792605138686"
+    },
+    {
+      "filePath": "tracks/mc_ezdit/МС Ездить Протухшое яйцо.mp3",
+      "artistId": "mc_ezdit",
+      "isExplicit": false,
+      "title": "Протухшое яйцо",
+      "id": "trk_1792605088772",
+      "albumId": "alb_1792604400709",
+      "createdAt": 1792605088772,
+      "coverFile": "",
+      "duration": "1:05",
+      "year": 2024,
+      "isNew": false
+    },
+    {
+      "duration": "1:05",
+      "createdAt": 1792605048746,
+      "coverFile": "",
+      "albumId": "alb_1792604400709",
+      "title": "Прогулка по улице",
+      "filePath": "tracks/mc_ezdit/МС Ездить Прогулка по улице.mp3",
+      "isExplicit": true,
+      "id": "trk_1792605048746",
+      "artistId": "mc_ezdit",
+      "year": 2024,
+      "isNew": false
+    },
+    {
+      "isExplicit": true,
+      "duration": "1:05",
+      "createdAt": 1792605018896,
+      "id": "trk_1792605018896",
+      "coverFile": "",
+      "title": "Отец детей из говна",
+      "albumId": "alb_1792604400709",
+      "filePath": "tracks/mc_ezdit/МС Ездить Отец детей из говна.mp3",
+      "artistId": "mc_ezdit",
+      "isNew": false,
+      "year": 2024
+    },
+    {
+      "year": 2024,
+      "title": "Нюхать клей",
+      "artistId": "mc_ezdit",
+      "filePath": "tracks/mc_ezdit/МС Ездить Нюхать клей.mp3",
+      "isExplicit": true,
+      "duration": "1:05",
+      "id": "trk_1792604909501",
+      "isNew": false,
+      "createdAt": 1792604909501,
+      "albumId": "alb_1792604400709",
+      "coverFile": ""
+    },
+    {
+      "isExplicit": false,
+      "id": "trk_1792604765920",
+      "coverFile": "",
+      "filePath": "tracks/mc_ezdit/МС Ездить Мёртвый Туолет.mp3",
+      "createdAt": 1792604765920,
+      "isNew": false,
+      "artistId": "mc_ezdit",
+      "year": 2024,
+      "title": "Мёртвый Туолет",
+      "albumId": "alb_1792604400709",
+      "duration": "1:05"
+    },
+    {
+      "isNew": false,
+      "duration": "1:13",
+      "year": 2024,
+      "isExplicit": true,
+      "filePath": "tracks/mc_ezdit/МС Ездить Ленин наш батюшка (Каломенская).mp3",
+      "createdAt": 1792604659532,
+      "artistId": "mc_ezdit",
+      "coverFile": "",
+      "title": "Ленин наш батюшка (Коломенская)",
+      "albumId": "alb_1792604400709",
+      "id": "trk_1792604659532"
+    },
+    {
+      "isNew": false,
+      "albumId": "alb_1792604400709",
+      "artistId": "mc_ezdit",
+      "createdAt": 1792604538770,
+      "filePath": "tracks/mc_ezdit/МС Ездить Кто в говнище....mp3",
+      "isExplicit": true,
+      "coverFile": "",
+      "id": "trk_1792604538770",
+      "year": 2024,
+      "duration": "1:05",
+      "title": "Кто в говнище"
+    },
+    {
+      "year": 2026,
+      "title": "МАМА ПАПА",
+      "isExplicit": true,
+      "duration": "2:55",
+      "albumId": "",
+      "isNew": false,
+      "id": "trk_1792597878782",
+      "artistId": "mc_ezdit",
+      "coverFile": "covers/alb_mamapapa.jpg",
+      "filePath": "tracks/mc_ezdit/МС ЕЗДИТЬ - МАМА ПАПА.MP3",
+      "createdAt": 1792597878782
+    },
+    {
+      "title": "Шляпка гриба",
+      "filePath": "tracks/mc_makaka/МС Макака - Шляпка гриба.mp3",
+      "createdAt": 1792612000839,
+      "artistId": "mc_makaka",
+      "coverFile": "",
+      "year": 2023,
+      "id": "trk_1792612000839",
+      "isExplicit": true,
+      "isNew": false,
+      "duration": "2:01",
+      "albumId": "alb_1792597638805"
+    }
+  ],
+  "customVideos": [
+    {
+      "id": "vid_1793814480289",
+      "title": "Волшебная бутылочка",
+      "artistId": "mc_makaka",
+      "featArtistId": "",
+      "year": 2023,
+      "previewFile": "covers/clip_mcmakaka.jpg",
+      "videoSource": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TRWbULj2nVA?si=InwsAfGQPvOGYlNP\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "duration": "2:23",
+      "isExplicit": true,
+      "createdAt": 1793814480289
+    },
+    {
+      "id": "vid_1793567359361",
+      "title": "Лирика Житухи",
+      "artistId": "mc_ezdit",
+      "year": 2026,
+      "previewFile": "covers/alb_rkn.jpg",
+      "videoSource": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/f4ocRn42FcU?si=acqaj-mIwZdBkhKt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "duration": "2:57",
+      "isExplicit": true,
+      "createdAt": 1793567359361,
+      "featArtistId": "mc_geich"
+    },
+    {
+      "id": "vid_1793051455024",
+      "title": "ПЕРЕЗВОН",
+      "artistId": "mc_ezdit",
+      "year": 2026,
+      "previewFile": "covers/alb_perezvon.jpg",
+      "videoSource": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Oa6z5XOWFMY?si=ty6zUllX2tlpR0SY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "duration": "9:48",
+      "isExplicit": false,
+      "createdAt": 1793051455024
+    },
+    {
+      "id": "vid_1793051361313",
+      "title": "МАМА ПАПА",
+      "artistId": "mc_ezdit",
+      "year": 2026,
+      "previewFile": "covers/alb_mamapapa.jpg",
+      "videoSource": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ELoWJ9hkM-E?si=Stk1AqNGWMmSSAoF\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+      "duration": "2:55",
+      "isExplicit": true,
+      "createdAt": 1793051361313
+    }
+  ],
+  "customNews": [
+    {
+      "id": "news_1793575928947",
+      "title": "Новый релиз",
+      "targetId": "app",
+      "dateText": "02.11.26",
+      "imageFile": "",
+      "content": "Вышел новый релиз от МС ЕЗДИТЬ и МС ГЕИЧ - Лирика Житухи.\n\nИсполнители детально поработали над треком, также МС ГЕИЧ вернулся спустя 2 года к исполнению композиций и продюсерству.",
+      "createdAt": 1793575928947
+    }
+  ],
+  "deletedCustomIds": [
+    "alb_1792597596794",
+    "alb_1793176376242",
+    "trk_1793176376243",
+    "art_eunrrenkrpkikprr_1793264041633",
+    "art_ms_dolboeb_1793263987131",
+    "mc_oparysh",
+    "trk_1792603726620",
+    "art_ms_oparysh_1793609173461",
+    "alb_1793609112638",
+    "news_1793576344447",
+    "alb_1793291266274",
+    "trk_1793291266274"
+  ],
+  "systemPushBroadcast": {
+    "id": "",
+    "title": "Обновите приложение",
+    "message": "Перейдите в приложения для скачивания новой версии.",
+    "imageFile": "logo.png",
+    "active": false,
+    "createdAt": 1793806319773
+  },
+  "tempBroadcast": {
+    "id": "",
+    "title": "Объявление Dark Music",
+    "message": "Некоторые клипы получится посмотреть только с VPN - потому что эти клипы транслируются через YouTube.",
+    "active": false,
+    "createdAt": 1793615799053
+  },
+  "pinnedBroadcast": {
+    "id": "pin_1793808733458",
+    "title": "Временные неполадки с приложением",
+    "message": "Временно не генерируется ссылка на трек при нажатии \"Поделиться\".",
+    "active": false,
+    "updatedAt": 1793815000000
+  },
+  "forceUpdate": {
+    "active": true,
+    "requiredVersion": 4,
+    "blockedVersions": [
+      1,
+      2,
+      3,
+      3.1
+    ],
+    "downloadUrl": "https://github.com/EzzO4ka/darkmusic/releases/tag/v.4.0",
+    "message": "Вышло глобальное обновление Dark Music v4.0! Старые версии (1.0, 2.0, 3.0, 3.1) больше не поддерживаются. Нажмите «Обновить приложение», чтобы установить новую версию.",
+    "updatedAt": 1793815000000
+  },
+  "whatsNew": {
+    "id": "wn_4_0",
+    "title": "Что нового в v4.0?",
+    "content": "Плавная анимация ползунков громкости и перемотки;\nСворачивание левой колонки на ПК в компактный режим (только иконки);\nЗапоминание последнего трека при выходе из приложения;\nПоследовательное воспроизведение внутри альбома и карточки артиста;\nКрасивые ссылки при отправке трека («Слушайте в Dark Music...») и открытие ссылок сразу в приложении.",
+    "version": 4,
+    "active": true,
+    "updatedAt": 1793815000000
+  },
+  "updatedAt": 1794054680626
+}
